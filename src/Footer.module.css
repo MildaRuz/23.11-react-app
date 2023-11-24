@@ -1,0 +1,26 @@
+footer {
+  color: darkgreen;
+  font-weight: bolder;
+  padding: 10px;
+}
+
+.footerContainer {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+.soc {
+  font-size: smaller;
+}
+.contactsCont {
+  font-size: small;
+}
+.contactsTitle {
+  font-size: larger;
+}
+.copyright {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-size: x-small;
+}

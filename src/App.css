@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(197, 217, 164);
+  line-height: 2;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+h1 {
+  text-align: center;
+}
+img {
+  max-width: 600px;
+  border-radius: 10px;
+}
+nav,
+footer {
+  background-color: rgb(146, 178, 90);
+}
+
+.red {
+  color: crimson;
+}
+
+.gallery {
+  gap: 5px;
+}
+
+.gallery img {
+  max-width: 230px;
+  max-height: 230px;
+  margin: 5px;
+}
+.gallery img:hover {
+  max-width: 350px;
+  max-height: 350px;
+}
